@@ -1,3 +1,2 @@
-# website-example
-** AI Powered Technology Products **
-** Version 1 - example **
+# AI-Powered Technology Products Website **
+## Link to Vercel: https://ai-products-website-example.vercel.app/
